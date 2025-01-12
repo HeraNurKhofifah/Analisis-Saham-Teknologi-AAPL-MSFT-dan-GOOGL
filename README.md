@@ -1,1 +1,1 @@
-# Analisis-Saham-Teknologi-AAPL-MSFT-dan-GOOGL
+# Analisis Saham Teknologi -AAPL, MSFT, dan GOOGL
