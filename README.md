@@ -25,9 +25,11 @@ Kemudian, Prediksi dilakukan dengan menggunakan metode simulasi Monte Carlo untu
 ## Hasil
 ### Alphabet Inc. (GOOGL)
 
+![grafik saham awal GOOGL](https://github.com/HeraNurKhofifah/Analisis-Saham-Teknologi-AAPL-MSFT-dan-GOOGL/blob/7af3e6517b6891c39425e827f90876971678920a/saham%20awal%20GOOGL.png)
+
+Secara umum, grafik menunjukkan tren naik dalam jangka panjang, yang mengindikasikan bahwa harga saham GOOGL cenderung meningkat seiring berjalannya waktu. Namun, terdapat fluktuasi harga yang cukup signifikan dalam jangka pendek, yang menunjukkan bahwa harga saham GOOGL cukup sensitif terhadap berbagai faktor, seperti berita perusahaan, kondisi pasar secara keseluruhan, dan sentimen investor. Selain itu, grafik juga menunjukkan beberapa puncak (harga tertinggi) dan lembah (harga terendah), yang sering menjadi titik minat bagi para investor karena dapat mengindikasikan potensi perubahan arah tren.
 
 
-Secara umum, grafik menunjukkan tren naik dalam jangka panjang. Artinya, harga saham GOOGL cenderung meningkat dari waktu ke waktu.
 Kemudian, langkah selanjutnya dilakukan uji statistik berikut:
 
 | Statistik                        | Nilai                               |
